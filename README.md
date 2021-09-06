@@ -2,7 +2,7 @@
 A simple script that allows you to create a dynamic iterable list based on a number variable.
 
 # Core Idea
-Zoho does not have a built-in function that allows you to create an iterable list like you could with "range(n)" in Python so here's a quick workaround using some string manipulations.
+Zoho does not have a built-in function that allows you to create an iterable list like you could with "range(n)" in Python, so here's a quick workaround using some string manipulations.
 
 # How to use
 Just replace the variable *'n'* in `rightPad(n)` with the number variable that you need.
