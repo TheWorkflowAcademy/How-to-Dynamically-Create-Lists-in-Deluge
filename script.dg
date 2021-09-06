@@ -1,0 +1,8 @@
+val = "";
+val = val.rightPad(n);
+iterator = val.replaceAll(" ","x,").removeLastOccurence(",");
+iterator = iterator.toList();
+for each i in iterator
+{
+	info i;
+}
