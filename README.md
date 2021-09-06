@@ -21,7 +21,7 @@ for each i in iterator
 # Function Explanation 
 * `rightPad` is used to add whitespace characters to the right of a string so that the total size of string matches the specified number.
   * `<text>.rightPad(<number>)`
-* For example, if variable *n* holds the value of 4, the response will be '    '.
+* For example, if variable *n* holds the value of 4, your string will have 4 white space characters.
 * The `replaceAll` function is used to add a comma at the end of each character so that your string can be read as a list.
   * 'x' is arbitrary and can be replaced with anything (it's just for Zoho to read it as an element later).
 * `removeLastOccurence()` is used to remove the comma on the last character indicating the end of the list.
